@@ -1,0 +1,5 @@
+wazo-asterisk-extra-modules (0.0.1) wazo-dev-buster; urgency=medium
+
+  * Initial release.
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Wed, 13 Nov 2019 15:08:51 -0500
