@@ -26,3 +26,4 @@ apt show asterisk/wazo-dev-buster
 
 5. All dependencies that are in the `Depends` of the newly built Asterisk package but are
    not in the `Depends` of the Asterisk on the mirror must be added to this project's `Depends`
+
