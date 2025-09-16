@@ -21,7 +21,7 @@ find what are the required dependencies for Asterisk.
 
 ```sh
 apt show asterisk
-apt show asterisk/wazo-dev-bullseye
+apt show asterisk/wazo-dev-bookworm
 ```
 
 5. All dependencies that are in the `Depends` of the newly built Asterisk package but are
